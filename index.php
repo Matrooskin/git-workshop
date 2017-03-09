@@ -5,3 +5,6 @@
  * Date: 09/03/17
  * Time: 18:50
  */
+
+
+echo 'Labas';
